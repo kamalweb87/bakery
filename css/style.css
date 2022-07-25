@@ -359,7 +359,7 @@ margin: 80px 90px;
 	display: inline-flex;
 	border-top: 1px solid #bbb;
 	border-bottom: 1px solid #bbb;
-	padding: 5px 50px;
+	padding: 5px 30px;
 	background: #EFECE1;
 }
 .bottom-section .bottom-left li{
@@ -368,7 +368,7 @@ margin: 80px 90px;
 .bottom-section .bottom-left li a{
 	font-size: 14px;
 	letter-spacing: 2px;
-	margin-right: 70px;
+	margin-right: 45px;
 }
 .bottom-section .blogo{
 	margin-left: 25px;
@@ -379,7 +379,7 @@ margin: 80px 90px;
 	display: inline-flex;
 	border-top: 1px solid #bbb;
 	border-bottom: 1px solid #bbb;
-	padding: 5px 50px;
+	padding: 5px 30px;
 	background: #EFECE1;
 }
 .bottom-section .bottom-right li{
@@ -388,7 +388,7 @@ margin: 80px 90px;
 .bottom-section .bottom-right li a{
 	font-size: 14px;
 	letter-spacing: 2px;
-	margin-right: 70px;
+	margin-right: 45px;
 }
 
 /* bottom-section end */
